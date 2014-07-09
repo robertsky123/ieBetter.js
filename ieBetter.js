@@ -1,5 +1,7 @@
 /*
  * by zhangxinxu(.com) on 2013-12-11
+ http://www.zhangxinxu.com/wordpress/2013/12/iebetter-js-make-ie6-ie8-like-modern-browser-ie9-chrome/
+ http://www.zhangxinxu.com/wordpress/2013/12/iebetter-js-make-ie6-ie8-like-modern-browser-ie9-chrome/
  * under MIT license
 */
 
